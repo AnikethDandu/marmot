@@ -1,2 +1,2 @@
-# marmot
-Custom engine using UCI protocol
+# Marmot
+Custom chess engine using UCI protocol
